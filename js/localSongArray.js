@@ -25,8 +25,8 @@ var localSongArray = [
         "Artist": "Ben and Ben",
         "FileName": "Ben and Ben - Maybe the Night.html",
         "Difficulty": "★☆☆☆☆",
-        "ArrangedDateFrom": "17/11/25",
-        "ArrangedDateTo": "17/11/25",
-        "LastUpdated": "17/11/25"
+        "ArrangedDateFrom": "20/11/25",
+        "ArrangedDateTo": "21/11/25",
+        "LastUpdated": "21/11/25"
     },
 ];
