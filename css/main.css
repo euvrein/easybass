@@ -1,0 +1,41 @@
+.bg-purple {
+   background-color: #6012c0;; 
+}
+
+.bg-dark-purple {
+   background-color: #2d085a;; 
+}
+
+a {
+    color: #ded;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0dcaf0;
+    font-weight: bold;
+}
+
+li {
+    list-style-type: none;
+}
+
+#tabs {
+    white-space: nowrap;
+    height: -moz-calc(100% - (50px + 30px));
+    height: -webkit-calc(100% - (50px + 30px));
+    height: calc(100% - (50px + 30px));
+    display:block;
+    width: 100%
+}
+
+.tab-header{
+    height: 50px;
+    position: sticky;
+    top: 0;
+}
+.tab-footer{
+    height: 30px;
+    position: sticky;
+    bottom: 0;
+}
