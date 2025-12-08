@@ -34,7 +34,7 @@ var localSongArray = [
         "Title": "A Thousand Miles",
         "Artist": "Vanessa Carlton",
         "FileName": "Vanessa Carlton - A Thousand Miles.html",
-        "Difficulty": "★☆☆☆☆",
+        "Difficulty": "★★☆☆☆",
         "ArrangedDateFrom": "08/12/25",
         "ArrangedDateTo": "08/12/25",
         "LastUpdated": "08/12/25"
