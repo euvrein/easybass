@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/main.css" rel="stylesheet">
+    </head>
+    <body class="bg-purple">
+<pre class="text-white">
+
+    
+HERE I AM TO WORSHIP
+by Hillsong United
+Bass Tuning: Standard
+
+[Intro]
+
+Verse 1
+Light of the world,
+You stepped down into darkness,
+Opened my eyes, let me see
+Beauty that made this heart adore You,
+Hope of a life spent with You.
+
+Chorus
+So, here I am to worship,
+Here I am to bow down
+Here I am to say that You're my God!
+You're altogether lovely, altogether worthy,
+Altogether wonderful to me!
+
+Verse 2
+King of all days,
+Oh so highly exalted,
+Glorious in Heaven above,
+Humbly You came to the earth You created,
+All for love's sake became poor.
+
+Chorus
+So, here I am to worship,
+Here I am to bow down
+Here I am to say that You're my God
+You're altogether lovely, altogether worthy
+Altogether wonderful to me!
+
+Bridge
+I'll never know how much it cost
+To see my sin upon that cross!
+I'll never know how much it cost
+To see my sin upon that cross!
+
+Chorus
+So, here I am to worship,
+Here I am to bow down
+Here I am to say that You're my God
+You're altogether lovely, altogether worthy
+Altogether wonderful to me!
+
+
+************************
+Last Update: 19/11/2025
+************************
+</pre>
+    </body>
+</html>
